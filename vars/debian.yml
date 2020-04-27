@@ -1,0 +1,5 @@
+---
+# roles/mattermost/vars/debian.yml
+
+# Debian specific vars
+mattermost_package_extension: 'deb'

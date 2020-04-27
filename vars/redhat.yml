@@ -1,0 +1,4 @@
+---
+# roles/mattermost/vars/debian.yml
+
+mattermost_package_extension: 'rpm'
